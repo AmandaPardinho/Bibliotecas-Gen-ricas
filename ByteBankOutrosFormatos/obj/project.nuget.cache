@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y76rQjPuwOMVwn40l2lihih2W/uioG+3JR5h+wk/bn5hDUr6KTUgqOGXEc3oPfPohMli2knsf3jjuiiN/Ubf6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\dll_csharp\\ByteBankOutrosFormatos\\ByteBankOutrosFormatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AmandaMarquesPardinh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ByteBankOutrosFormatos.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ByteBankOutrosFormatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ByteBankOutrosFormatos.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ByteBankOutrosFormatos.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ByteBankOutrosFormatos.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\bin\Debug\net6.0\ByteBankOutrosFormatos.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\bin\Debug\net6.0\ByteBankOutrosFormatos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\bin\Debug\net6.0\ByteBankOutrosFormatos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ByteBankOutrosFormatos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\refint\ByteBankOutrosFormatos.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ByteBankOutrosFormatos.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankOutrosFormatos\obj\Debug\net6.0\ref\ByteBankOutrosFormatos.dll
