@@ -1,0 +1,12 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\bin\Debug\net6.0\ByteBankGeradorChavePix.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\bin\Debug\net6.0\ByteBankGeradorChavePix.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\bin\Debug\net6.0\ByteBankGeradorChavePix.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ByteBankGeradorChavePix.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ByteBankGeradorChavePix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ByteBankGeradorChavePix.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ByteBankGeradorChavePix.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ByteBankGeradorChavePix.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ByteBankGeradorChavePix.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\refint\ByteBankGeradorChavePix.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ByteBankGeradorChavePix.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ByteBankGeradorChavePix\obj\Debug\net6.0\ref\ByteBankGeradorChavePix.dll
