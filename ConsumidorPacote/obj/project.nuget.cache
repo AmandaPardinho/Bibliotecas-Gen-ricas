@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIP6aWVCjLiXUaQwOCt/D29WfFY0aenZG5N+rg0sfxGr1qnSm7XK5iwiuaPJ94kXhp8OhheLjwcKb/VVyTlCtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AmandaMarquesPardinh\\Desktop\\Performa\\dll_csharp\\ConsumidorPacote\\ConsumidorPacote.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AmandaMarquesPardinh\\.nuget\\packages\\bytebank_pix\\1.0.0\\bytebank_pix.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

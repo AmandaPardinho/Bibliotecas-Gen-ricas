@@ -1,0 +1,17 @@
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.exe
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.deps.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.runtimeconfig.json
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\bin\Debug\net6.0\bytebank_Pix.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.csproj.AssemblyReference.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.AssemblyInfoInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.AssemblyInfo.cs
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.csproj.CoreCompileInputs.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.csproj.CopyComplete
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\refint\ConsumidorPacote.dll
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.pdb
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.genruntimeconfig.cache
+C:\Users\AmandaMarquesPardinh\Desktop\Performa\dll_csharp\ConsumidorPacote\obj\Debug\net6.0\ref\ConsumidorPacote.dll
